@@ -12,7 +12,8 @@
   cmp_tabnine = "cmp-tabnine";
   codeium = "codeium-nvim";
   conventionalcommits = "cmp-conventionalcommits";
-  copilot = "copilot-cmp";
+  # copilot = "copilot-cmp";
+  copilot = "cmp_copilot";
   crates = "crates-nvim";
   dictionary = "cmp-dictionary";
   digraphs = "cmp-digraphs";
